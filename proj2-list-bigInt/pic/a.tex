@@ -1,0 +1,32 @@
+\documentclass{article}
+\usepackage{amsmath,amssymb}
+\usepackage{latexsym}
+\usepackage{CJK}
+\begin{document}
+\begin{CJK*}{GBK}{song}
+
+\[ a^{100} = \underbrace { \left( {a*a*a* \cdots *a} \right)}_{100\ times\ multiplication} \]
+
+\[ \left( {100} \right)_{10} = \left( {1100100} \right)_{2} \]\
+
+\[ 100=2^6+2^5+2^2=64+32+4 \]
+
+\[ a^{100} = a^{ \left( 2^6+2^5+2^2 \right)}=a^{ \left( 64+32+4 \right)}=a^{2^6}*a^{2^5}*a^{2^2} \]
+
+\[ 
+  \underbrace { a^{ \left( 2^1 \right) } \xrightarrow[muliply\ once]{square} a^{ \left( 2^2 \right) }
+   \xrightarrow[muliply\ once]{square} a^{ \left( 2^3 \right) } 
+  \xrightarrow[muliply\ once]{square} a^{ \left( 2^4 \right) } \cdots }_{log_2(n)\ times\ multiplication} \]
+
+
+\[ O(n+\sum^{log_2(n)-1}_{k=0} {2^k})=O(n+n)=O(n) \]
+\[\frac{O(n)}{n}=O(1)\]
+
+\[ \boxed{2} \longrightarrow \boxed{3x^2} \longrightarrow \boxed{4x^5} + \boxed{4} \longrightarrow \boxed{3x} \longrightarrow \boxed{-2x^2} \longrightarrow \boxed{5x^6}\]
+\[\xrightarrow[]{link}  \boxed{2} \longrightarrow \boxed{3x^2} \longrightarrow \boxed{4x^5} \longrightarrow  \boxed{4} \longrightarrow \boxed{3x} \longrightarrow \boxed{-2x^2} \longrightarrow \boxed{5x^6} \]
+\[\xrightarrow[]{sort} \boxed{2} \longrightarrow  \boxed{4} \longrightarrow \boxed{3x} \longrightarrow \boxed{3x^2} \longrightarrow \boxed{-2x^2} \longrightarrow \boxed{4x^5} \longrightarrow \boxed{5x^6}\]
+\[\xrightarrow[]{merge}  \boxed{6} \longrightarrow \boxed{3x} \longrightarrow \boxed{x^2} \longrightarrow \boxed{4x^5} \longrightarrow \boxed{5x^6}\]
+
+\end{CJK*}
+\end{document}
+\begin{document}

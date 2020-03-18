@@ -1,0 +1,144 @@
+Test1: [3,1,10]
+Bubble_Sort:	0 s.
+Counting_Sort:	0 s.
+Heap_Sort:	0 s.
+Insertion_sort:	0 s.
+Merge_Sort:	0 s.
+Quick_sort:	0 s.
+Selection_Sort:	0 s.
+Radix_sort:	0 s.
+STL_Sort:	0 s.
+Intro_sort:	0 s.
+Test2: [7,1,100]
+Bubble_Sort:	0 s.
+Counting_Sort:	0 s.
+Heap_Sort:	0 s.
+Insertion_sort:	0 s.
+Merge_Sort:	0 s.
+Quick_sort:	0 s.
+Selection_Sort:	0 s.
+Radix_sort:	0 s.
+STL_Sort:	0 s.
+Intro_sort:	0 s.
+Test3: [8,1,100]
+Bubble_Sort:	0 s.
+Counting_Sort:	0 s.
+Heap_Sort:	0 s.
+Insertion_sort:	0 s.
+Merge_Sort:	0 s.
+Quick_sort:	0 s.
+Selection_Sort:	0 s.
+Radix_sort:	0 s.
+STL_Sort:	0 s.
+Intro_sort:	0 s.
+Test4: [10,1,100]
+Bubble_Sort:	0 s.
+Counting_Sort:	0 s.
+Heap_Sort:	0 s.
+Insertion_sort:	0 s.
+Merge_Sort:	0 s.
+Quick_sort:	0 s.
+Selection_Sort:	0 s.
+Radix_sort:	0 s.
+STL_Sort:	0 s.
+Intro_sort:	0 s.
+Test5: [50,1,100]
+Bubble_Sort:	0 s.
+Counting_Sort:	0 s.
+Heap_Sort:	0 s.
+Insertion_sort:	0 s.
+Merge_Sort:	0 s.
+Quick_sort:	0 s.
+Selection_Sort:	0 s.
+Radix_sort:	0 s.
+STL_Sort:	0 s.
+Intro_sort:	0 s.
+Test6: [100,1,100]
+Bubble_Sort:	0 s.
+Counting_Sort:	0 s.
+Heap_Sort:	0 s.
+Insertion_sort:	0 s.
+Merge_Sort:	0 s.
+Quick_sort:	0 s.
+Selection_Sort:	0 s.
+Radix_sort:	0 s.
+STL_Sort:	0 s.
+Intro_sort:	0 s.
+Test7: [1000,1,10000]
+Bubble_Sort:	0.078 s.
+Counting_Sort:	0 s.
+Heap_Sort:	0.015 s.
+Insertion_sort:	0.015 s.
+Merge_Sort:	0 s.
+Quick_sort:	0.015 s.
+Selection_Sort:	0.062 s.
+Radix_sort:	0.015 s.
+STL_Sort:	0 s.
+Intro_sort:	0.015 s.
+Test8: [10000,1,10000]
+Bubble_Sort:	12.06 s.
+Counting_Sort:	0.015 s.
+Heap_Sort:	0.093 s.
+Insertion_sort:	1.659 s.
+Merge_Sort:	0.093 s.
+Quick_sort:	0.046 s.
+Selection_Sort:	5.506 s.
+Radix_sort:	0.171 s.
+STL_Sort:	0.062 s.
+Intro_sort:	0.062 s.
+Test9: [100000,1,100000]
+Counting_Sort:	0.094 s.
+Heap_Sort:	1.126 s.
+Merge_Sort:	0.938 s.
+Quick_sort:	0.689 s.
+Radix_sort:	1.431 s.
+STL_Sort:	0.607 s.
+Intro_sort:	0.704 s.
+Test10: [1000000,1,1000000]
+Counting_Sort:	1.064 s.
+Heap_Sort:	12.825 s.
+Merge_Sort:	10.797 s.
+Quick_sort:	7.445 s.
+Radix_sort:	14.15 s.
+STL_Sort:	7.526 s.
+Intro_sort:	8.254 s.
+Test11: [10000,1,1]
+Bubble_Sort:	3.292 s.
+Counting_Sort:	0 s.
+Heap_Sort:	0.015 s.
+Insertion_sort:	0 s.
+Merge_Sort:	0.031 s.
+Quick_sort:	3.317 s.
+Selection_Sort:	5.199 s.
+Radix_sort:	0.14 s.
+STL_Sort:	0 s.
+Intro_sort:	0.015 s.
+Test12: [10000,1,2]
+Bubble_Sort:	11.984 s.
+Counting_Sort:	0.004 s.
+Heap_Sort:	0.033 s.
+Insertion_sort:	0.838 s.
+Merge_Sort:	0.047 s.
+Quick_sort:	1.667 s.
+Selection_Sort:	5.411 s.
+Radix_sort:	0.167 s.
+STL_Sort:	0.013 s.
+Intro_sort:	0.014 s.
+Test13:[100000,1000000,1100000]+ [100000,900000,1000000]+ [100000,800000,900000 ]+ [100000,700000,800000 ]+ [100000,600000,700000 ]+ [100000,500000,600000 ]+ [100000,400000,500000 ]+ [100000,300000,400000 ]+ [100000,200000,300000 ]+ [100000,100000,200000 ]
+Heap_Sort:	13.411 s.
+Merge_Sort:	9.88 s.
+Quick_sort:	8.163 s.
+Radix_sort:	14.67 s.
+STL_Sort:	6.945 s.
+Intro_sort:	7.627 s.
+Test14: [100000,100000,200000 ]+ [100000,200000,300000 ]+ [100000,300000,400000 ]+ [100000,400000,500000 ]+ [100000,500000,600000 ]+ [100000,600000,700000 ]+ [100000,700000,800000 ]+ [100000,800000,900000 ]+ [100000,900000,1000000]+ [100000,1000000,1100000]
+Heap_Sort:	12.762 s.
+Merge_Sort:	10.397 s.
+Quick_sort:	8.18 s.
+Radix_sort:	13.277 s.
+STL_Sort:	6.844 s.
+Intro_sort:	7.413 s.
+Test15:[1000000,1,100]
+Counting_Sort:	0.084 s.
+Heap_Sort:	9.007 s.
+Merge_Sort:	7.711 s.

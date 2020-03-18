@@ -1,0 +1,16 @@
+Alex Addr:No.12 St.233
+Alex Tel:18888123456
+Alex E-mail:Alex@zju.edu.cn
+
+Bran Addr:Hangzhou, zhejiang
+Bran Tel:15913131234
+Bran E-mail:Bran@163.com
+
+Mike Addr:Beijing China
+Mike Tel1:12345678900
+Mike Tel2:10987672534
+Mike E-mail1:Mike@qq.com
+
+小明 这个人叫小明
+李华 这个人不知道是男是女
+李华 这个人大家都很熟悉
